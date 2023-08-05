@@ -1,0 +1,47 @@
+body {
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(66,0,255,1) 100%);
+    width: auto;
+    height: auto;
+    color: #FFFFFF;
+    font-size: 6vw;
+    text-align: center;
+    font-family: "Fredoka";
+}
+#code {
+    font-family: monospace;
+}
+hr {
+    width: 100%;
+    border: 1px solid #000000;
+    border-radius: 10000px;
+}
+#container {
+    background-color: #AAAAFF;
+    border-radius: 6vw;
+    padding: 10px;
+}
+#container a {
+    padding: 5px;
+}
+#info {
+    background-color: #AAAAFF;
+    border-radius: 6vw;
+    padding: 10px;
+}
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a:hover {
+    color: #0000FF;
+    text-decoration: none;
+}
+a:active {
+    color: #0000FF;
+    text-decoration: none;
+}
+@font-face {
+    font-family: "Fredoka";
+    src: url(fonts/fredoka.ttf);
+}
