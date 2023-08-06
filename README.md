@@ -1,2 +1,2 @@
-### lktechnologies.github.io
-L.K. Technologies Homepage
+### kurenaitechnologies.github.io
+Kurenai Technologies Official Homepage
